@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **denisejuliannegozum2001@gmail.com**
 
-- ⚡ Fun fact **I'm very hardworking, loves to learn, and plays video games during my free time**
+- ⚡ Fun fact **i'm very hardworking, loves to learn, and plays video games during my free time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
