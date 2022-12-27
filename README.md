@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Denise!</h1>
+<h1 align="center">Hi, my name is Denise! (⁠◍⁠•⁠ᴗ⁠•⁠◍⁠)⁠❤</h1>
 <h3 align="center">A computer science student who enjoys designing and developing applications. I'm passionate about programming, and my happy place is coding away at the computer.</h3>
 
 - 🌱 I’m currently learning **Web Development, and Cybersecurity**
