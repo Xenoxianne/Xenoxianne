@@ -1,7 +1,7 @@
 <h1 align="center">Hi ♥, I'm Denise!</h1>
 <h3 align="center">A computer science student who enjoys designing and developing applications. I'm passionate about programming, and my happy place is coding away at the computer.</h3>
 
-- 📚 I’m currently learning **Web Development, and Cybersecurity**
+- 📚 I’m currently learning **Web Development**
 
 - ✉ How to reach me **denisejuliannegozum2001@gmail.com**
 
